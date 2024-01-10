@@ -23,7 +23,7 @@ Existing voice commands will be overwritten, so there has no problem with duplic
 
 ## Contents of the nih-grants.csv
 
-- expansions of acronyms
+- 60 expansions of acronyms
 
 
 ## Related repos
