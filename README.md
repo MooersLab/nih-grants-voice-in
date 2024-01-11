@@ -16,7 +16,7 @@ I then dictate the command.
 See the documentation for the Voice In plug-in to learn how to configure keyboard shortcuts.
 
 ## Installation
-Each command is paired with the inserted text on a single line in of a comma separated value file (biocryst.csv).
+Each command is paired with the inserted text on a single line in of a comma separated value file (nih-grant.csv).
 Equations, code snippets, and so on that span multiple lines are placed inside of double quotes.
 Use the **Bulk Add** button in Voice In Plus to upload these commands into your collection of custom commands.
 Existing voice commands will be overwritten, so there has no problem with duplicates when pasting in an updated version of the CSV file.
@@ -50,6 +50,11 @@ It is better to pick a synonym for the new command than include the old one.
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
 The speed with which you vocalize a command has a significant impact.
 You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
+
+### Keep handy the URL to the site for uploading commands
+I add commands to my account several times a day.
+I keep handy a link to the URL to the site for uploading commands into my account in a my custom built home page called index.html.
+I keep the link to the command page on the top line next to my links to other frequently used links like that one to Canvas for my lectures, the project page on Overleaf, 750words.com, Outlook web mail, gmail, and my GitHub and Codeberg repos.
 
 ## Contributions are welcome
 This project can benefit all NIH grant reviewers.
