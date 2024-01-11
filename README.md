@@ -2,7 +2,7 @@
 
 ## Introduction
 This repo contains voice commands about NIH grants for the automated speech recognition software Voice In Plus.
-Voice In plus is a Google Chrome extension.
+Voice In Plus is a Google Chrome extension.
 It only works in Google Chrome at this time.
 
 The utilization of these custom commands requires a subscription to Voice In Plus.
