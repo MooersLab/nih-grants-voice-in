@@ -1,4 +1,4 @@
-# nih-grants-voice-in: Speech-to-text commands for NIH grant related jargon
+# nih-grants-voice-in: Voice In Plus commands for NIH grants
 
 ## Introduction
 This repo contains voice commands about NIH grants for the automated speech recognition software Voice In Plus.
