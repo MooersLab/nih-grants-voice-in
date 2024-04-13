@@ -1,33 +1,27 @@
-expand NOFO,Notice of Funding Opportunity
-expand CDC,Centers for Disease Control and Prevention
-exapnd SEP,Special Emphasis Panel
-exapnd IAR,Internet Assisted Review
-expand Pandemic Preparedness Cohorts,Network of Community Cohorts for Monitoring Changes in Respiratory Virus Epidemiology
-expand PO,Program Officer
-expand SRO,Scientific Review Officer
-expand ESI,Early Stage Invesitigator
-expand MIRA,Maximizing Investigators’ Research Award
-expand NIGMS,National Institute of General Medical Sciences
-expand PD,Project Director
-expand PI,Pinciple Investigator
-expand PEDP,Plans for Enhancing Diverse Perspectives
-expand COI,Conflict of Interest
-expand CSR,NIH Center for Scientific Review
-exapnd ESA,CSR Extramural Support Assistant
-exapnd CBER, Center for Biologics Evaluation and Research at FDA
-exapnd CC, NIH Clinical Center
+expand CBER, Center for Biologics Evaluation and Research at FDA
+expand CC, NIH Clinical Center
 expand CCR,Center for Cancer Research at NCI
+expand CDC,Centers for Disease Control and Prevention
 expand CIT,Center for Information Technology
+expand COI,Conflict of Interest
+expand CSR,Center of Scientific Review
+expand CSR,NIH Center for Scientific Review
 expand DCEG,Division of Cancer Epidemiology and Genetics at NCI
 expand DIPHR,Division of Intramural Population Health Research at NICHD
+expand EI,Established Investigators
+expand ESA,CSR Extramural Support Assistant
+expand ESI,Early Stage Investigator
+expand ESI,Early Stage Investigators
 expand FAES,Foundation for Advanced Education in the Sciences
 expand FARE,Fellows Award for Research Excellence
-expand FelCom,Fellows Committee
 expand FDA,Food and Drug Administration
+expand FelCom,Fellows Committee
 expand FNIH,Foundation for the NIH
 expand FNL,Frederick National Laboratory
-expand IRP,Intramural Research Program
 expand HHS,U.S. Department of Health and Human Services
+expand IAR,Internet Assisted Review
+expand IRP,Intramural Research Program
+expand MIRA,Maximizing Investigators’ Research Award
 expand NCATS,National Center for Advancing Translational Sciences
 expand NCBI,National Center for Biotechnology Information
 expand NCCIH,National Center for Complementary and Integrative Health
@@ -47,14 +41,22 @@ expand NIDCR,National Institute of Dental and Craniofacial Research
 expand NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases
 expand NIEHS,National Institute of Environmental Health Sciences 
 expand NIGMS,National Institute of General Medical Sciences
+expand NIGMS,National Institute of General Medical Sciences
 expand NIMH,National Institute of Mental Health
 expand NIMHD,National Institute on Minority Health and Health Disparities
 expand NINDS,National Institute of Neurological Disorders and Stroke
 expand NINR,National Institute of Nursing Research
 expand NLM,National Library of Medicine
+expand NOFO,Notice of Funding Opportunity
 expand OD,Office of the Director
-expand OITE,Office of Intramural Training and Education
 expand OIR,Office of Intramural Research
+expand OITE,Office of Intramural Training and Education
 expand ORS,Office of Research Services
 expand ORWH,Office of Research on Women’s Health
 expand OTT,Office of Technology Transfer
+expand PD,Project Director
+expand PEDP,Plans for Enhancing Diverse Perspectives
+expand PI,Pinciple Investigator
+expand PO,Program Officer
+expand SEP,Special Emphasis Panel
+expand SRO,Scientific Review Officer
