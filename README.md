@@ -3,16 +3,15 @@
 
 
 
-# nih-grants-voice-in: Voice In commands for NIH grants
+# Voice In commands related to NIH grants
 
 ## Introduction
 This repo contains voice commands about NIH grants for the automated speech recognition software Voice In Plus.
-Voice In Plus is a Google Chrome extension.
-It only works in Google Chrome at this time.
+Voice In Plus is a Google Chrome and MicroSoft Edge extension.
 
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites and webmail programs opened in Google Chrome.
-They might be helpful during the drafting of e-mails about grant reviews on secured websites.
+They might be helpful when drafting e-mails about grant reviews on secured websites and when writing grant reviews.
 
 ## Usage
 You can use the commands right away after they have been uploaded.
