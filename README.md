@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=nih-grants-voice-in&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=nih-grants-voice-in&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -11,29 +11,29 @@ Voice In Plus is a Google Chrome extension.
 It only works in Google Chrome at this time.
 
 The utilization of these custom commands requires a subscription to Voice In Plus.
-These commands can be used in the text area of most websites and web mail programs opened in Google Chrome.
-They might be useful during the drafting of e-mails and grant reviews in secured web sites.
+These commands can be used in the text area of most websites and webmail programs opened in Google Chrome.
+They might be helpful during the drafting of e-mails about grant reviews on secured websites.
 
 ## Usage
-After the commands have been uploaded, you can utilize them immediately.
+You can use the commands right away after they have been uploaded.
 I toggle Voice In on and off by using a keyboard shortcut.
 I then dictate the command.
-See the documentation for the Voice In plug-in to learn how to configure keyboard shortcuts.
+See the Voice In plug-in documentation to learn how to configure keyboard shortcuts.
 
 ## Installation
-Each command is paired with the inserted text on a single line in of a comma separated value file (nih-grant.csv).
-Equations, code snippets, and so on that span multiple lines are placed inside of double quotes.
+Each command is paired with the inserted text on a single line in a comma-separated value file (nih-grant.csv).
+Equations, code snippets, and so on that span multiple lines are placed inside double quotes.
 Use the **Bulk Add** button in Voice In Plus to upload these commands into your collection of custom commands.
-Existing voice commands will be overwritten, so there has no problem with duplicates when pasting in an updated version of the CSV file.
+Existing voice commands will be overwritten, so there is no problem with duplicates when pasting a set of new commands in the `bulk add` window.
 
 ## Contents of the nih-grants.csv
 
 - 60 expansions of acronyms
 
 
-## Related repos
+## Related repositories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
-At a minimum, you will want to include the library of contractions so that these can be eliminated from your formal prose.
+You will want to include the library of contractions at a minimum to eliminate them from your formal prose.
 
 ## Rules for developing voice commands
 
@@ -47,7 +47,6 @@ It is better to pick a synonym for the new command than include the old one.
 
 ### Use verbs are prefixes
 
-- Use the verb "insert" in front of the name for the computer code or equation that I want to insert.
 - Use the verb "expand" to expand acronyms.
 
 
@@ -58,10 +57,14 @@ You may find that you have to verbalize the command at high speed to avoid inser
 
 ### Keep handy the URL to the site for uploading commands
 I add commands to my account several times a day.
-I keep handy a link to the URL to the site for uploading commands into my account in a my custom built home page called index.html.
+I keep handy a link to the site's URL for uploading commands into my account on my private, custom-built home page, index.html.
 I keep the link to the command page on the top line next to my links to other frequently used links like that one to Canvas for my lectures, the project page on Overleaf, 750words.com, Outlook web mail, gmail, and my GitHub and Codeberg repos.
 
 ## Contributions are welcome
-This project can benefit all NIH grant reviewers.
-It should be a community project.
-Make a pull request, post a issue, or send me e-mail with additions in csv format.
+This project can benefit most NIH grant reviewers.
+Make a pull request, post an issue, or send me an e-mail with additions in CSV format.
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added update table and corrected wording in README.md.                                                                                    | 2024 April 14        |
+
