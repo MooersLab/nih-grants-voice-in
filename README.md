@@ -27,7 +27,7 @@ Existing voice commands will be overwritten, so there is no problem with duplica
 
 ## Contents of the nih-grants.csv
 
-- 60 expansions of acronyms
+- 61 expansions of acronyms
 
 
 ## Related repositories
