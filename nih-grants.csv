@@ -23,13 +23,15 @@ expand HHS,U.S. Department of Health and Human Services
 expand IAR,Internet Assisted Review
 expand IRP,Intramural Research Program
 expand MIRA,"Maximizing Investigators’ Research Award"
+expand MRAB,"Maximizing Investigators’ Research Award B"
+expand MRAE,"Maximizing Investigators’ Research Award E"
 expand NCATS,National Center for Advancing Translational Sciences
 expand NCBI,National Center for Biotechnology Information
 expand NCCIH,National Center for Complementary and Integrative Health
 expand NCI,National Cancer Institute
 expand NEI,National Eye Institute
 expand NHGRI,National Human Genome Research Institute
-expand NHLBI,"National Heart Lung, and, Blood Institute"
+expand NHLBI,National Heart Lung, and, Blood Institute
 expand NIA,National Institute on Aging
 expand NIAAA,National Institute on Alcohol Abuse and Alcoholism
 expand NIAID,Institute of Allergy and Infectious Diseases
@@ -54,6 +56,7 @@ expand OIG,U.S. Department of Health and Human Services Office of Inspector Gene
 expand OIR,Office of Intramural Research
 expand OITE,Office of Intramural Training and Education
 expand OMA,NIH Office of Management Assessment
+expand ORCID,Open Researcher and Contributor Identifier
 expand ORS,Office of Research Services
 expand ORWH,Office of Research on Women’s Health
 expand OTT,Office of Technology Transfer
@@ -63,3 +66,4 @@ expand PI,Principal Investigator
 expand PO,Program Officer
 expand SEP,Special Emphasis Panel
 expand SRO,Scientific Review Officer
+expand UEI,Unique Entity Identifier
